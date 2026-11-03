@@ -1,0 +1,62 @@
+cff-version: 1.2.0
+message: "If you use these prompts, please cite the paper."
+type: software
+title: "CT-TEL-scaleup: Prompts for Scaling Up Formal Representation of Clinical Trial Protocols in Ensemble Logic Using LLMs"
+abstract: >-
+  Prompts accompanying the CT-TEL workflow, which translates narrative
+  ClinicalTrials.gov protocols into Temporal Ensemble Logic formulas,
+  reconstructs protocols from the formulas, and evaluates translation fidelity.
+authors:
+  - family-names: Huang
+    given-names: Yan
+    affiliation: "The University of Texas Health Science Center at Houston"
+  - family-names: Hao
+    given-names: Xubing
+    affiliation: "The University of Texas Health Science Center at Houston"
+  - family-names: Li
+    given-names: Xiaojin
+    affiliation: "The University of Texas Health Science Center at Houston"
+  - family-names: Abeysinghe
+    given-names: Rashmie
+    affiliation: "The University of Texas Health Science Center at Houston"
+  - family-names: Jiang
+    given-names: Xiaoqian
+    affiliation: "The University of Texas Health Science Center at Houston"
+  - family-names: Cui
+    given-names: Licong
+    affiliation: "The University of Texas Health Science Center at Houston"
+  - family-names: Zhang
+    given-names: Guo-Qiang
+    affiliation: "The University of Texas Health Science Center at Houston"
+repository-code: "https://github.com/yhc29/CT-TEL-scaleup"
+license: MIT
+keywords:
+  - clinical trial protocols
+  - temporal ensemble logic
+  - large language models
+  - formal representation
+  - biomedical informatics
+preferred-citation:
+  type: article
+  title: "Scaling Up Formal Representation of Clinical Trial Protocols in Ensemble Logic Using LLMs: A Preliminary Study"
+  authors:
+    - family-names: Huang
+      given-names: Yan
+    - family-names: Hao
+      given-names: Xubing
+    - family-names: Li
+      given-names: Xiaojin
+    - family-names: Abeysinghe
+      given-names: Rashmie
+    - family-names: Jiang
+      given-names: Xiaoqian
+    - family-names: Cui
+      given-names: Licong
+    - family-names: Zhang
+      given-names: Guo-Qiang
+  year: 2026
+  month: 7
+  journal: arXiv
+  doi: "10.48550/arXiv.2607.21307"
+  url: "https://arxiv.org/abs/2607.21307"
+  notes: "arXiv:2607.21307 [cs.LO]; to appear in the Proceedings of the 2026 AMIA Symposium"
